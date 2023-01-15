@@ -1,0 +1,10 @@
+.sharing{
+    padding-top: 20px;
+    display: flex;
+    justify-content: center;
+    padding-right: 20px;
+}
+h4{
+    display: flex;
+    justify-content: center;
+}

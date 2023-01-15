@@ -1,0 +1,8 @@
+.footer{
+    display: flex;
+    background-color: red;
+    color: whitesmoke;
+    font-size: 20px;
+    font-family: 'Times New Roman', Times, serif;
+    justify-content: center;
+}
